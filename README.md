@@ -1,1 +1,7 @@
 # CS-330-Computational-Graphics-and-Visualization
+
+This class has helped me enhance my 3D development skills via OpenGL. This class has been a mix of theory and application which has helped to solidify the concepts. When developing 3D applications, an iterative development process is crucial as more complex 3D graphics are built up from smaller, simpler concepts and objects. This mindset can be applied to many future software engineering projects as most concepts and challenges can be broken down into smaller and simpler components which can then be solved individually and gradually to reduce development complexity. Doing this also promotes modular development which increases the quality and maintainability of code.
+
+3D graphics has a lot of different components, such as object materials, lighting, textures, and 3D object models. Starting simple and incrementally adding in more complex solutions to enhance the look of the 3D scene was used throughout the course to manage complexity. Utilizing popular websites such as learnopengl, reviewing the lectures, and searching websites such as stackoverflow helped me learn, apply, and debug my OpenGL code. 
+
+Computer science will help me reach my goals by providing an understanding of foundational concepts which software is built from. Understanding how computers work and the why of software engineering decisions is important in building scalable, maintainable, performant, and most importantly, useful, sofware. 
